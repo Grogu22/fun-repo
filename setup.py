@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_python_repo',  # Name of your repository or package
+    name='fun-repo',  # Name of your repository or package
     version='0.1.0',        # Version number
     packages=['text-generator'],   # List the specific module(s) you want to install
     install_requires=[],    # Any external dependencies
