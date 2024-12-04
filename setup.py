@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='text-generator',  # Name of your repository or package
     version='0.1.0',        # Version number
-    packages=['text-generator'],   # List the specific module(s) you want to install
+    packages=['text-generator','text-fun'],   # List the specific module(s) you want to install
     install_requires=[],    # Any external dependencies
     description='A collection of Python modules',
     long_description=open('README.md').read(),
